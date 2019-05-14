@@ -1,6 +1,10 @@
 # BrainDrain
 Game made for LD44 with the theme "Your life is currency"
 
+<p align=center>
+  <img src="https://raw.githubusercontent.com/SvDvorak/BrainDrain/master/Screenshots/Brain_animated_1TL5DBmxyE.gif" alt="Animated" width="800" />
+</p>
+
 ## “The future is now!”
 
 “Have a tough calculation you need done? Why not use the brains of your fellow man to help solve the problem. Literally.”
