@@ -1,0 +1,48 @@
+Limited memory
+
+* Your life is currency *
+Brain Rent
+Hjärnan är den snabbaste, billigaste och mest lättåtkomliga datorn som finns i världen. I en inte för avlägsen framtiden har forskare lyckats göra så att en persons hjärna kan användas för att beräkna tunga kalkylationer. Det tar inte lång tid innan företag dyker upp för att utnyttja detta genom att låta människor hyra ut delar av deras hjärnkapacitet.
+
+Du är en värd manager, den person som får beräkningsuppgifter att utföra och har ett antal värdar (dvs, människor) att utnyttja. Du måste se till att använda dem till maximala nivå utan att bränna ut deras hjärnor (och göra dem hjärndöda).
+
+Gameplay
+Spelmekaniken går ut på att koppla ihop beräkningsuppgifter som kommer in med de värdar du har genom att dra kopplingar mellan uppgifterna och värdar. Ju fler värdar som jobbar på en beräkning desto snabbare genomförs den.
+
+Beräkningsuppgifter kommer in som kort på vänster sida med en timer när de ska vara avklarade samt en beräkningsprocent. De har en kort summering av uppgiften såsom “Solve cancer coefficient”, “Send mass-emails” eller “Calculate combat simulation”.
+
+Värdar kommer in från höger i form av cirklar med porträtt av personerna. De har också en timer på hur lång tid de stannar på ditt center (eller ska det vara utan timer så att du alltid har dem?). Olika värdar kan vara olika smarta, brännas ut olika fort eller stanna olika länge.
+
+Spelaren kan klicka för att lyfta uppgift eller värd och flytta runt på brädet. Spelaren kan också klicka och dra en lina mellan uppgift och värd eller mellan olika värdar. En linje får inte korsa en annan linje.
+
+När en värd används så bränns den sakta men säkert ut vilket syns på ansiktsuttrycket och färgen på porträttets kant. Värden kan vilas ut och laddas upp igen om den låts stå oanvänd. Om värden bränns ut för mycket så blir denne hjärndöd. Kanske att den då stannar på spelbrädet och är i vägen?
+
+Spelaren har ett betyg i hur bra han utför sitt jobb. När tiden passerar på en ofärdig beräkning så går betyget ned, för dåligt betyg så får spelaren sparken från sitt jobb.
+
+Känsla
+Stor vikt läggs på att skapa en något obekväm känsla när användaren utnyttjar människor för företags intressen. Värdarnas ansiktsuttryck ändras från normala till att ha ryck i ögat, tunga som hänger ut, tappar färg i ansiktet, osv ju mer bränns ut. Vissa värdar kan också vara väldigt unga, t ex barn. Och beräkningarna kan vara mer militära eller mer åt det illegala hållet.
+
+
+
+Side effects
+You're alchemist apprentice at a potion store. The owner just left you in charge for a second but now there are customers! Combine different unknown substances to hopefully create what the customers want. Maybe they return to get new potions to solve their new issues?
+
+Space exploration
+Space(bar) exploration
+
+Risky powerups
+
+Shelter
+You run a snake shelter but they're slithering all over the place, mixing together. And mixing different snake species is baaad so you have to lift them and drop them in their corner. Mouse controlled with static camera.
+
+Everything has a price
+
+Tiny town
+All the tiny towns are growing and losing their quaintness! Expand between buildings to separate and make it more spread out again.
+Expand in x or y direction along one tile edge. Every move pops up new buildings. Lose when government classifies your town as a city.
+
+No upgrades, only downgrades
+
+
+
+Underground
