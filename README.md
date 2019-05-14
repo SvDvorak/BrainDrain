@@ -1,6 +1,8 @@
 # BrainDrain
 Game made for LD44 with the theme "Your life is currency"
 
+[Ludum Dare game page](https://ldjam.com/events/ludum-dare/44/brain-drain)
+
 <p align=center>
   <img src="https://raw.githubusercontent.com/SvDvorak/BrainDrain/master/Screenshots/Brain_animated_1TL5DBmxyE.gif" alt="Animated" width="800" />
 </p>
